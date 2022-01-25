@@ -1,9 +1,12 @@
-### Hi there 👋
+# Hello and welcome!
+My name is Terry Ming and this is my second home, where everything from my full-fledged projects to organized jumbles of musings about data science and machine learning will be located. Currently, this repository serves only as the directory for my website, but you may anticipate more content to show up here in the coming months. In the meantime, feel free to have a look around!
 
-<!--
-**terru3/terru3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My website:
+https://terru3.github.io/
 
-Here are some ideas to get you started:
+LinkedIn:
+https://www.linkedin.com/in/terry-m3/
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
