@@ -12,7 +12,7 @@ In my free time, I like to play the piano, read fiction, play Rocket League, lis
 - LinkedIn:
 https://www.linkedin.com/in/terry-m3/
 
-**Fun fact:** My typeracer record is 187 wpm!
+**Fun fact:** *My typeracer record is 187 wpm*
 
 My website (in progress):
 https://terru3.github.io/
