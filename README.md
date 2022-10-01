@@ -9,6 +9,8 @@ In my free time, I like to play the piano, read fiction, play Rocket League, lis
 
 ## Contact Me
 
+- E-mail:
+terru3@ucla.edu
 - LinkedIn:
 https://www.linkedin.com/in/terry-m3/
 
